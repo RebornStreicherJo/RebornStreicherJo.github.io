@@ -1,0 +1,4 @@
+.bg-gradient-primary-to-secondary {
+    background: rgb(34,36,0);
+    background: linear-gradient(49deg, rgba(34,36,0,1) 0%, rgba(24,25,3,1) 36%, rgba(255,252,0,1) 100%); 
+  }
