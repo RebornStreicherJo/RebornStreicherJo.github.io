@@ -14,3 +14,16 @@
 .bg-gray {
   background: #e0e0e0;
 }
+
+.bg-gray2 {
+  background: #a0a0a0;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: lightgray;
+  text-decoration: none;
+}
